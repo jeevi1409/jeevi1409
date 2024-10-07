@@ -2,23 +2,24 @@
 <h3 align="center">AWS Certified Cloud Practitioner || 3rd-year B.E. CSE Student</h3>
 
 <p align="center">
-  ✉️  You can contact me at <a href="mailto:jeevithaelumalai2005@gmail.com">jeevithaelumalai2005@gmail.com</a>
+  ✉️ You can contact me at <a href="mailto:jeevithaelumalai2005@gmail.com">jeevithaelumalai2005@gmail.com</a>
 </p>
 
 <p align="center">
-  🧠  I'm learning Front-End Development, Machine Learning, AWS Associate in progress
+  🧠 I'm learning Front-End Development, Machine Learning, and AWS Associate in progress<br>
+  🤝 I'm open to collaborating on Machine Learning Projects, Cloud Projects
 </p>
 
-<p align="center">
-  🤝  I'm open to collaborating on Machine Learning Projects, Cloud Projects
-</p>
+---
 
 ### Certifications
 
 <p align="center">
-  <strong>📜 AWS Certified Cloud Practitioner</strong><br />
-  <strong>📜 Microsoft Certified - Azure Fundamentals</strong>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-orange" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals-blue" alt="Microsoft Certified Azure Fundamentals" />
 </p>
+
+---
 
 ### Skills
 
@@ -29,21 +30,25 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
+---
+
 ### GitHub Stats
 
 <p align="center">
   <a href="https://github.com/jeevi1409">
-    <img src="https://github-readme-stats.vercel.app/api?username=jeevi1409&show_icons=true&theme=radical" alt="Jeevitha's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevi1409&show_icons=true&theme=radical&count_private=true" alt="Jeevitha's GitHub stats" width="50%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jeevi1409">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevi1409&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevi1409&langs_count=6&layout=compact&theme=radical" alt="Top Languages" width="50%" />
   </a>
 </p>
 
-### Socials
+---
+
+### Connect with Me
 
 <p align="center">
   <a href="https://www.github.com/jeevi1409" target="_blank" rel="noreferrer">
@@ -54,24 +59,28 @@
   </a>
 </p>
 
+---
+
 ### Animation and Styles
 
-<!-- Add CSS animation for badges and stats -->
 <style>
+  /* Animation for h1 text */
+  h1 {
+    animation: fadeIn 3s ease-in-out infinite alternate;
+  }
+
+  /* Animation Keyframes */
+  @keyframes fadeIn {
+    0% { color: #0891b2; }
+    100% { color: #eab308; }
+  }
+
+  /* Hover effect on icons */
   img {
     transition: transform 0.3s ease;
   }
 
   img:hover {
     transform: scale(1.1);
-  }
-
-  h1 {
-    animation: color-change 3s infinite alternate;
-  }
-
-  @keyframes color-change {
-    0% { color: #0891b2; }
-    100% { color: #eab308; }
   }
 </style>
