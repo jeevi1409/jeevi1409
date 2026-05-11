@@ -72,7 +72,7 @@
 
 ---
 
-## 🐍 Python Programming Intern  
+##  Python Programming Intern  
 **CodSoft**  
 📅 February 2024 – March 2024  
 
