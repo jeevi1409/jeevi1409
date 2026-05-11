@@ -38,23 +38,58 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+
+</td>
+
+<td align="center" width="33%">
 
 ### Web Technologies
 <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
 
+</td>
+
+<td align="center" width="33%">
+
 ### Cloud Platforms
 <img src="https://skillicons.dev/icons?i=aws,azure" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
 
 ### DevOps Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform" />
 
+</td>
+
+<td align="center" width="33%">
+
 ### Monitoring
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
+</td>
+
+<td align="center" width="33%">
+
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
