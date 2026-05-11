@@ -1,48 +1,148 @@
+<div align="center">
+
 # Hi 👋 I'm JEEVITHA E
-===========================
 
-### AWS Certified Cloud Practitioner
---------------------------------------
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cloud+%7C+DevOps+%7C+Full+Stack+Developer;AWS+%26+Azure+Certified;Building+Scalable+Cloud+Solutions" />
 
-🎓 **3rd-year B.E. CSE Student** at St. Joseph's College of Engineering  
-🎓 **AWS Certified Cloud Practitioner** | **Microsoft Certified - Azure Fundamentals**  
+<img src="https://komarev.com/ghpvc/?username=jeevi1409&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- ✉️ [jeevithaelumalai2005@gmail.com](mailto:jeevithaelumalai2005@gmail.com)
-- 🧠 Learning **Front-End Development**, **Machine Learning**, and pursuing **AWS Associate** certification.
+</div>
 
 ---
 
-### 🛠️ Skills
+## 🚀 About Me
+
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 B.E Computer Science Engineering  
+🎓 St. Joseph's College of Engineering, Chennai  
+📊 CGPA: **9.03 / 10**  
+
+☁ Passionate about:
+- Cloud Computing
+- DevOps Engineering
+- Full Stack Development
+- Infrastructure Automation
+
+---
+
+## 🏆 Certifications
 
 <p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" alt="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" alt="VS Code" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" /></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" alt="AWS" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker" /></a>
+
+🏅 AWS Certified Cloud Practitioner  
+🏅 Microsoft Azure Fundamentals  
+🏅 GitHub Foundations  
+🏅 Cisco Network Basics  
+
 </p>
 
 ---
 
-### 🌐 Socials
+## 🛠 Tech Stack
 
-<p align="left">
-  <a href="https://www.github.com/jeevi1409" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeevitha-elumalai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" />
-  </a>
-</p>
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 
 ---
 
-### 🏆 Badges
+# 💼 Internship Experience
 
-<a href="https://github.com/jeevi1409" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevi1409&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+## Developer Intern
+**Monolith Technologies Pvt Ltd**
+
+📅 June 2025 – July 2025
+
+✔ Worked on real-time full stack projects  
+✔ Learned cloud deployment & maintenance  
+✔ Built scalable applications  
+
+---
+
+## Python Programming Intern
+**CodSoft**
+
+📅 Feb 2024 – March 2024
+
+✔ Developed Python projects  
+✔ Improved coding and problem solving  
+
+---
+
+# 🚀 Featured Projects
+
+## ☁ CloudTask Pro
+Scalable To-Do Platform on AWS
+
+⚡ Node.js | EC2 | Docker | Kubernetes | PM2
+
+---
+
+## 📚 DevOps Vault
+Static Knowledge Hub on AWS
+
+⚡ HTML | CSS | JavaScript | Amazon S3
+
+---
+
+## 💰 SnapSweeper
+Automated Cloud Cost Optimizer
+
+⚡ AWS Lambda | Python | Boto3 | IAM | EBS
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeevi1409&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevi1409&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevi1409&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/jeevi1409">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
+
+<a href="https://linkedin.com/in/jeevitha-elumalai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:jeevithaelumalai2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building cloud solutions that create real-world impact"
+
+</div>
