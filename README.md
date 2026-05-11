@@ -2,35 +2,54 @@
 
 # Hi 👋 I'm JEEVITHA E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cloud+%7C+DevOps+%7C+Full+Stack+Developer;AWS+%26+Azure+Certified;Building+Scalable+Cloud+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=007BFF&center=true&vCenter=true&width=700&lines=Cloud+%7C+DevOps+%7C+Full+Stack+Developer;AWS+%26+Azure+Certified;Building+Scalable+Cloud+Solutions" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+<table>
+<tr>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<td width="50%">
+
+## 🚀 About Me
 
 🎓 **B.E Computer Science Engineering**  
-🏫 **St. Joseph's College of Engineering, Chennai**  
+🏫 St. Joseph's College of Engineering, Chennai  
 📊 **CGPA: 9.03 / 10**
 
-☁ Passionate about:
+### ☁ Passionate About:
+- Cloud Computing  
+- DevOps Engineering  
+- Full Stack Development  
+- Infrastructure Automation  
 
-- Cloud Computing
-- DevOps Engineering
-- Full Stack Development
-- Infrastructure Automation
+</td>
+
+<td width="50%" align="center">
+
+<img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 Certifications
 
-🏅 AWS Certified Cloud Practitioner  
-🏅 Microsoft Certified: Azure Fundamentals  
-🏅 GitHub Foundations  
-🏅 Cisco Network Basics  
+<div align="center">
+
+| Certification | Status |
+|---------------|--------|
+| ☁ AWS Certified Cloud Practitioner | ✅ |
+| 🔷 Microsoft Azure Fundamentals | ✅ |
+| 🐙 GitHub Foundations | ✅ |
+| 🌐 Cisco Network Basics | ✅ |
+
+</div>
 
 ---
 
@@ -38,23 +57,62 @@
 
 <div align="center">
 
-### Programming Languages
+<table>
+<tr>
+<td align="center">
+
+### Programming
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### Web Technologies
 <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
 ### Cloud Platforms
 <img src="https://skillicons.dev/icons?i=aws,azure" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### DevOps Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,terraform" />
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
 ### Monitoring
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -62,75 +120,87 @@
 
 # 💼 Experience
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 👩‍💻 Developer Intern  
 **Monolith Technologies Pvt Ltd**  
+
 📅 June 2025 – July 2025  
 
-✔ Worked on real-time full stack development projects  
-✔ Learned cloud deployment and application maintenance  
-✔ Built scalable applications  
+✔ Full stack development  
+✔ Cloud deployment  
+✔ Application maintenance  
 
----
+</td>
 
-## 🐍 Python Programming Intern  
+<td width="50%">
+
+## 🐍 Python Intern  
 **CodSoft**  
-📅 February 2024 – March 2024  
 
-✔ Built Python-based projects  
-✔ Improved coding and problem-solving skills  
+📅 Feb 2024 – March 2024  
 
----
+✔ Python projects  
+✔ Problem solving  
+✔ Development skills  
 
-# 🚀 Featured Projects
+</td>
 
-## ☁ CloudTask Pro  
-### Scalable To-Do Platform on AWS
-
-<div>
-<img src="https://skillicons.dev/icons?i=nodejs,aws,docker,kubernetes,javascript,html,css" />
-</div>
-
-**Tools Used:** Node.js, AWS EC2, Docker, Kubernetes, PM2, SQLite
-
-Built and deployed a full-stack To-Do application with CRUD operations and cloud deployment.
+</tr>
+</table>
 
 ---
 
-## 📚 DevOps Vault  
-### Static Knowledge Hub on AWS
+# 🚀 Projects
 
-<div>
+<table>
+<tr>
+
+<td width="33%">
+
+## ☁ CloudTask Pro
+
+<img src="https://skillicons.dev/icons?i=nodejs,aws,docker,kubernetes" />
+
+Node.js • AWS EC2 • Docker • Kubernetes • PM2 • SQLite
+
+</td>
+
+<td width="33%">
+
+## 📚 DevOps Vault
+
 <img src="https://skillicons.dev/icons?i=html,css,javascript,aws" />
-</div>
 
-**Tools Used:** HTML, CSS, JavaScript, Amazon S3
+HTML • CSS • JS • Amazon S3
 
-Built and deployed a static DevOps documentation website using Amazon S3.
+</td>
 
----
+<td width="33%">
 
-## 💰 SnapSweeper  
-### Automated Cloud Cost Optimizer on AWS
+## 💰 SnapSweeper
 
-<div>
 <img src="https://skillicons.dev/icons?i=python,aws" />
-</div>
 
-**Tools Used:** AWS Lambda, Python, Boto3, IAM, EC2, EBS
+Python • Lambda • Boto3 • IAM • EC2 • EBS
 
-Automated cleanup of unused EBS snapshots for AWS cost optimization.
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeevi1409&show_icons=true&theme=tokyonight"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevi1409&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevi1409&theme=tokyonight"/>
 
 </div>
 
